@@ -20,7 +20,7 @@
 # please enter the complete directory path into the ScriptDownloadDirectory
 # variable below.
 
-ScriptDownloadDirectory="/Users/jtse/Documents/GitHub/Jamf-Scripts/Backups"
+ScriptDownloadDirectory="DIRECTORY"
 
 # If the ScriptDownloadDirectory isn't specified above, a directory will be
 # created and the complete directory path displayed by the script.
@@ -134,13 +134,13 @@ fi
 # The Jamf Pro URL
 
 # Set the Jamf Pro URL here if you want it hardcoded.
-jamfpro_url="https://rstudio.jamfcloud.com"	    
+jamfpro_url="URL"	    
 
 # Set the username here if you want it hardcoded.
-jamfpro_user="jtse"
+jamfpro_user="USERNAME"
 
 # Set the password here if you want it hardcoded.
-jamfpro_password="BUG1ubv!dej4tyq.pbf"	
+jamfpro_password="PASSWORD"	
 
 # If you do not want to hardcode API information into the script, you can also store
 # these values in a ~/Library/Preferences/com.github.jamfpro-info.plist file.

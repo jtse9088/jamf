@@ -31,7 +31,6 @@
 # major testing and validation is performed.
 
 # More information at: https://github.com/jamfprofessionalservices/DEP-Notify
-# Modified by RStudio IT to add in Google Slide presentation
 
 #########################################################################################
 # Testing Mode
